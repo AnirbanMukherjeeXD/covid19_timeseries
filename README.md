@@ -29,6 +29,7 @@ Data used in this analysis is sourced from  [Our World in Data – Coronavirus S
 - SciPy  
 - scikit-learn  
 
----
 
 The analysis includes preprocessing, model fitting using non-linear regression, and evaluation using R² score.
+
+---
